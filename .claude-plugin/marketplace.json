@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-ecommerce-seo",
+  "owner": {
+    "name": "mvstepanek"
+  },
+  "metadata": {
+    "description": "SEO skills and audit tools for Next.js e-commerce sites",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-ecommerce-seo-skills",
+      "source": "./",
+      "description": "10 SEO skills + 2 audit commands for AI coding assistants. Helps developers maintain good SEO on Next.js e-commerce sites without requiring SEO expertise.",
+      "author": {
+        "name": "mvstepanek"
+      },
+      "category": "seo",
+      "tags": ["nextjs", "seo", "ecommerce", "metadata", "structured-data", "hreflang"]
+    }
+  ]
+}

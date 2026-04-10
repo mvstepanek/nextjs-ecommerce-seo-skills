@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-ecommerce-seo-skills",
+  "description": "SEO skills for AI coding assistants targeting Next.js e-commerce sites. Covers metadata, structured data, hreflang, images, performance, crawlability, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mvstepanek"
+  },
+  "repository": "https://github.com/mvstepanek/nextjs-ecommerce-seo-skills",
+  "license": "MIT",
+  "keywords": ["nextjs", "seo", "ecommerce", "metadata", "structured-data", "hreflang", "images", "performance"],
+  "skills": ["./skills"],
+  "commands": ["./commands"],
+  "agents": ["./agents"]
+}
