@@ -56,7 +56,7 @@ Works with any Next.js e-commerce project. Skills provide preventive guidelines 
 
 ## Installation
 
-### Option A: Plugin install (recommended)
+### Option A: Plugin install (recommended) - waiting for official review by Claude, so for now it's not available
 
 Add the marketplace and install the plugin:
 
